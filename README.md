@@ -6,7 +6,8 @@
 A
 
 ## Menambahkan Judul
-`<h1 align = "center">BELAJAR HTML</h1>`
+`<h1>Belajar dasar HTML</h1>`
+`<h2>Paragraf pada HTML</h2>`
 
 b
 
