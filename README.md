@@ -45,11 +45,11 @@
 ## Jawaban
 1. Saya akan melakukan perubahan pada paragraf kedua menjadi bold ``<b>`` dan dibawah ini gambar sebelum saya ubah
 
-a
+![p5](foto/p5.png)
 
 lalu ini adalah gambar sesudah saya ubah
 
-b
+![p6](foto/p6.png)
 
 2. tag ``<br>`` berfungsi untuk membuat line break antar kalimat, sedangkan tag ``<p>`` berfungsi untuk membuat paragraf.
 
